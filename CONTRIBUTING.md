@@ -25,11 +25,11 @@
 
 - Write a commit message
 
-    - git commit -m "<message here>"
+    ``` git commit -m "<message here>" ```
 
 - PUsh the changes to remote repository
 
-    - git push origin <add-your-branch-name>
+    ``` git push origin <add-your-branch-name> ```
 
 When the PR is reviewed by the maintainers, it will be approved.
 
