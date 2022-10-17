@@ -31,6 +31,6 @@
 
     ``` git push origin <add-your-branch-name> ```
 
-When the PR is reviewed by the maintainers, it will be approved.
+When the PR is reviewed, it will be approved.
 
 
